@@ -1,2 +1,3 @@
-tutorial,txt
+.gitignore
+tutorial.txt
 .env
